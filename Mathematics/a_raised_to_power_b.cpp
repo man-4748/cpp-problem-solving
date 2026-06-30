@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-// Notes: Mathematics/Sum_of_all_possible_pairsNotes.jpg
+// Notes: Mathematics/a^bNotes.jpg
 int main() {
     long long a, b;
     cin >> a >> b;
