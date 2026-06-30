@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-// Notes: Mathematics/SmartSelect_20260630_152029_Samsung Notes.jpg
+// Notes: Mathematics/Sum_of_all_possible_pairsNotes.jpg
 int main() {
     int n;
     cin >> n;
